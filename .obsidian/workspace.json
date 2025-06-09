@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "e17096e109586525",
+    "type": "split",
+    "children": [
+      {
+        "id": "92cb2e2ebecfe50d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e58d47ec8895ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94354f8e7c681825",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae76abc0e7c2ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f1dbb383cbaac0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3b9e554b44bc877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ab495777c9aefc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "069c7adf6a9e332c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dcb15a6bd10476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8bf384864055f73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for test.md"
+            }
+          },
+          {
+            "id": "86a1e3b5791751ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from test.md"
+            }
+          },
+          {
+            "id": "e0bb720be1e130ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "44347c3d3b0ad79d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e58d47ec8895ae9",
+  "lastOpenFiles": [
+    "fundamentals/signal_latency_jitter.md",
+    "fundamentals/noise_filtering_basics.md",
+    "fundamentals/adc_vs_sampling.md",
+    "design_notes/firmware_architecture.md",
+    "design_notes/feature_list.md",
+    "test.md.md",
+    "tasks/current_todos.md",
+    "tasks/finished_tasks_log.md",
+    "tasks",
+    "project_logs/week_1_log.md",
+    "project_logs",
+    "plots_analysis/raw_imu_data_graphs.md",
+    "plots_analysis",
+    "octave_simulation/stabilization_model_plan.md",
+    "octave_simulation/setup_notes.md",
+    "octave_simulation",
+    "fundamentals/uart_spi_i2c.md",
+    "fundamentals",
+    "design_notes",
+    "XR_Signal_Analyzer_Notes/tasks/current_todos.md",
+    "XR_Signal_Analyzer_Notes/tasks/finished_tasks_log.md",
+    "XR_Signal_Analyzer_Notes/tasks",
+    "XR_Signal_Analyzer_Notes/octave_simulation/stabilization_model_plan.md",
+    "XR_Signal_Analyzer_Notes/octave_simulation/setup_notes.md",
+    "XR_Signal_Analyzer_Notes/octave_simulation",
+    "XR_Signal_Analyzer_Notes/plots_analysis/raw_imu_data_graphs.md",
+    "XR_Signal_Analyzer_Notes/plots_analysis",
+    "XR_Signal_Analyzer_Notes/design_notes/firmware_architecture.md",
+    "XR_Signal_Analyzer_Notes/design_notes/feature_list.md",
+    "XR_Signal_Analyzer_Notes/design_notes",
+    "XR_Signal_Analyzer_Notes/project_logs/week_1_log.md",
+    "XR_Signal_Analyzer_Notes/fundamentals/signal_latency_jitter.md",
+    "XR_Signal_Analyzer_Notes/fundamentals/uart_spi_i2c.md",
+    "XR_Signal_Analyzer_Notes/fundamentals/noise_filtering_basics.md",
+    "XR_Signal_Analyzer_Notes/fundamentals/adc_vs_sampling.md"
+  ]
+}

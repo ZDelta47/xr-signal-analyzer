@@ -25,7 +25,6 @@ A hardware + firmware project to capture, visualize, and analyze IMU sensor sign
 ## 📂 Project Structure
 
 XR_Signal_Analyzer_Notes/
-├── fundamentals/ # Learning notes
 ├── design_notes/ # Architecture and plans
 ├── project_logs/ # Weekly updates
 ├── plots_analysis/ # Sensor visualizations
